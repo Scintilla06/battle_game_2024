@@ -226,10 +226,10 @@ bool ya_tank::IsHit(glm::vec2 position) const {
 }
 
 const char *ya_tank::UnitName() const {
-  return "Tiny ya_tank";
+  return "ya_hex_tank";
 }
 
 const char *ya_tank::Author() const {
-  return "LazyJazz";
+  return "An Yan 2024010836";
 }
 }  // namespace battle_game::unit
